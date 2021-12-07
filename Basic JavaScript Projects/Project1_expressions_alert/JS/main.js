@@ -4,14 +4,21 @@ document.write(blues);
 document.write("\"Be who you are and say what you feel,"
 + " because those who mind don\'t metter and those who matter don\'t mind.\""
 + "-Dr. Seuss");
+
 var B ="test";
 window.alert(B);
+
 var C = "Concatenated" + "String"
 document.write(C);
+
 var Fammily = "the Arezzinis", Dad = "Jeremiah", Mom = "Hermoine", Doughter = "Penny", Son = "Zorro";
 document.write(Dad)
+
 3+3
 document.write(3+3);
+
+var H="4"; var T="4";
+document.write(H+T);
 
 function My_First_Function() {                               //Defining a function and naming it
     var str = "This text is green!";                         //Defining a variable and giving it a
