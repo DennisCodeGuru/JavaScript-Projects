@@ -40,13 +40,21 @@ function negation_Operator() {
 }
 
 //Increment and Decrement
-var X = 5;
-X++;
-document.write(X);
+function also1 () {
+    var X = 5;
+    X++;
+    document.write(X);
+    document.getElementById("math").innerHTML = "X++"
+}
+
 //
-var Y = 5.25;
-Y--;
-document.write(Y);
+function also () {
+    var Y = 5.25;
+    Y--;
+    document.write(Y);
+    document.getElementById("math").innerHTML = "Y--"
+}
+
 
 //Random
-window.alert(math.random());
+window.alert(Math.random());
