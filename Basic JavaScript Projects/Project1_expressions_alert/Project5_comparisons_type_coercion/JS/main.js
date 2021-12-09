@@ -16,12 +16,12 @@ function  negative_infinity() {
 //true
 function test () {
     var h = 10>2;
-    document.getElementById("true").innerHTML = true;
+    document.getElementById("boolean true").innerHTML = true;
 }
 //false
 function test1 () {
     var v = 10<2;
-    document.getElementById("false").innerHTML = false;
+    document.getElementById("boolean false").innerHTML = false;
 }
 
 //console.log
@@ -31,12 +31,12 @@ console.log(2+2);
 //true
 function my () {
     var z = 10==10;
-    document.getElementById("true").innerHTML = true;
+    document.getElementById("dooble true").innerHTML = true;
 }
 //false
 function my1 () {
     var q = 3==11;
-    document.getElementById("false").innerHTML = false;
+    document.getElementById("dooble false").innerHTML = false;
 }
 
 //TRIPLE EQUAL
@@ -44,25 +44,23 @@ function my1 () {
 function triple () {
     var a = 10;
     var c = 10;
-    document.getElementById("true").innerHTML = (a===c);
+    document.getElementById("triple true").innerHTML = (a===c);
 }
 //false
 function triple1 () {
     var a = 82;
     var c = "82";
-    document.getElementById("false").innerHTML = (a===c);
+    document.getElementById("triple false").innerHTML = (a===c);
 }
 
 //LOGICAL OPERATORS
 //true
-function local () {
-    
-    document.getElementById("true").innerHTML = (5>2 && 10>4);
+function local () {    
+    document.getElementById("logical true").innerHTML = (5>2 && 10>4);
 }
 //false
-function local1 () {
-    
-    document.getElementById("false").innerHTML = (5>10 && 10>4);
+function local1 () {    
+    document.getElementById("logical false").innerHTML = (5>10 && 10>4);
 }
 // NOT 
 //true
