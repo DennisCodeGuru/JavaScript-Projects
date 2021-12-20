@@ -108,7 +108,7 @@ function checkWinConditions() {
         //This function playes the tie game sound.
         audio('./media/tie.mp3');
         //This function sets a .3 second timer before the restGame is called.
-        setTimeout(function () { restGame(); }, 1000);
+        setTimeout(function () { resetGame(); }, 1000);
     }
 
     //This function checks if an array 3 strings. it is used to check for 
