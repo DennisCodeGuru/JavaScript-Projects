@@ -125,4 +125,4 @@ keys.addEventListener('click', (event) => {
 
     input_Digit(target.value);
     Update_Display();
-})
+}) 
