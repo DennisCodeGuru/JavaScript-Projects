@@ -89,8 +89,8 @@ function Calculator_Reset() {
     
 // this function updates the screen with the contents of display_value
 function Update_Display() {
-    const display = document.querySelector('.calculator- screen');
-    display.value = Calculator.Display_Value;    
+    const display = document.querySelector('.calculator-screen');
+    display.value = Calculator.Display_Value;   
 }
 
 Update_Display();
