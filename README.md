@@ -3,7 +3,8 @@ JavaScript-Projects
 
 These are some small projects i made using JavaScript.
 
-Projects
+Projects:
+
 [Pizza Menu](https://github.com/DennisCodeGuru/JavaScript-Projects/blob/main/Pizza_Project/Pizza.html)
 
 [Tic-Tac-Toe Game](https://github.com/DennisCodeGuru/JavaScript-Projects/blob/main/TicTacToe/TicTacToe.html)
