@@ -1,11 +1,13 @@
-# H1 JavaScript-Projects
+JavaScript-Projects
 
 
 These are some small projects i made using JavaScript.
 
 Projects
 [Pizza Menu](https://github.com/DennisCodeGuru/JavaScript-Projects/blob/main/Pizza_Project/Pizza.html)
+
 [Tic-Tac-Toe Game](https://github.com/DennisCodeGuru/JavaScript-Projects/blob/main/TicTacToe/TicTacToe.html)
+
 [Calculator](https://github.com/DennisCodeGuru/JavaScript-Projects/blob/main/calculator/calculator.html)
 
 #  Pizza Menu
